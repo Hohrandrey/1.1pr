@@ -1,5 +1,3 @@
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 fun main() {
 
     //Задание 1
@@ -34,4 +32,3 @@ fun main() {
 
     println("$count_A $count_T $count_G $count_C")
 }
-
