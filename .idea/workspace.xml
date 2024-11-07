@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2cd930cb-e573-4653-8bb7-d38b47db166b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Модуль 1. Основы языка Kotlin/1.1.pr/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Модуль 1. Основы языка Kotlin/1.1.pr/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Модуль 1. Основы языка Kotlin/1.1.pr/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Модуль 1. Основы языка Kotlin/1.1.pr/.idea/kotlinc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Модуль 1. Основы языка Kotlin/1.1.pr/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Модуль 1. Основы языка Kotlin/1.1.pr/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Модуль 1. Основы языка Kotlin/1.1.pr/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Модуль 1. Основы языка Kotlin/1.1.pr/1.1.pr.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Модуль 1. Основы языка Kotlin/1.1.pr/src/Main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +27,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/ANDREY/OneDrive/Рабочий стол/кодинг/Kotlin_test/Mobile-development-on-Kotlin/Модуль 1. Основы языка Kotlin&quot;
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ANDREY/OneDrive/Рабочий стол/кодинг/Kotlin_test/Mobile-development-on-Kotlin&quot;
   }
 }</component>
   <component name="RecentsManager">
